@@ -1,6 +1,7 @@
 # Localstorage.js
 
-This project works with local stoarge in JavaScript
+- This project works with local stoarge in JavaScript
+- Adding and removing tweets.
 ---
 | File | Description |
 | --- | --- |
